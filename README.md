@@ -1,6 +1,6 @@
 # Fullstack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
 
-This is a repository for Fullstack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
+This is a repository for Fullstack DLC Chats: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
 
 Features:
 
@@ -29,7 +29,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/aniruddhsingh23/discord_clone.git
+git clone https://github.com/aniruddhsingh23/DLC_Chats.git
 ```
 
 ### Install packages
